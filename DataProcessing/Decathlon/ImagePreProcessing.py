@@ -11,6 +11,7 @@ SingleFiles = r'/home/luca/Desktop/Master/LfD/Data/Decathlon/SingleFiles'
 x_train = np.load(os.path.join(SingleFiles, 'x_train.npy'))
 y_train = np.load(os.path.join(SingleFiles, 'y_train.npy'))
 
+
 x_test = np.load(os.path.join(SingleFiles, 'x_test.npy'))
 y_test = np.load(os.path.join(SingleFiles, 'y_test.npy'))
 
